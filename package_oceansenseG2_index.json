@@ -13,7 +13,7 @@
           "architecture": "OTAQ",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.26.zip?raw=true",
+          "url": "https://github.com/FraserElectronics/OceansenseArduino/blob/main/OceansenseG2-1.0.0.zip?raw=true",
           "archiveFileName": "OceansenseG2-1.0.0.zip",
           "checksum": "SHA-256:ad40aaa51c684dd727a77912623719df9ac052af5b885a31f9adeb5f5ecc2d1b",
           "size": "8773152",
