@@ -14,9 +14,9 @@
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/FraserElectronics/OceansenseArduino/main/package_oceansenseG2_index.json",
-          "archiveFileName": "RoboHat-0.0.26.zip",
+          "archiveFileName": "OceansenseG2-1.0.0.zip",
           "checksum": "SHA-256:ad40aaa51c684dd727a77912623719df9ac052af5b885a31f9adeb5f5ecc2d1b",
-          "size": "8971244",
+          "size": "8974336",
           "boards": [
             {
               "name": "Oceansense G2"
@@ -57,9 +57,9 @@
           "version": "0.0.24",
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/FraserElectronics/OceansenseArduino/main/package_oceansenseG2_index.json",
-          "archiveFileName": "RoboHat-0.0.24.zip",
+          "archiveFileName": "OceansenseG2-1.0.0.zip",
           "checksum": "SHA-256:ad40aaa51c684dd727a77912623719df9ac052af5b885a31f9adeb5f5ecc2d1b",
-          "size": "8971244",
+          "size": "8974336",
           "boards": [
             {
               "name": "Oceansense G2"
