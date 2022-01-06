@@ -4,7 +4,7 @@
     {
       "name": "Oceansense G2",
       "maintainer": "Fraser Electronics Limited",
-      "websiteURL": "https://roboticsmasters.co",
+      "websiteURL": "https://fraserelectronics.co.uk",
       "email" : "andy@fraserelectronics.co.uk",
       "platforms":
       [
@@ -12,7 +12,7 @@
           "name": "Oceansense G2 Board",
           "architecture": "OTAQ",
           "version": "1.0.0",
-          "category": "Contributed",
+          "category": "FEL",
           "url": "https://github.com/FraserElectronics/OceansenseArduino/blob/main/OceansenseG2-1.0.0.zip?raw=true",
           "archiveFileName": "OceansenseG2-1.0.0.zip",
           "checksum": "SHA-256:ad40aaa51c684dd727a77912623719df9ac052af5b885a31f9adeb5f5ecc2d1b",
